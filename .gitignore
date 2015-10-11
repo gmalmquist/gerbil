@@ -1,0 +1,6 @@
+.pants.d/
+__pycache__
+*.swp
+.pids
+dist
+build-support/grun
